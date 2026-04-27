@@ -1,61 +1,72 @@
 # Hi there, I'm Myo Thiha 👋
-### Full-Stack Developer | Specialty in Health-Tech & AI-Driven Systems
+### Full-Stack Developer | Health-Tech & AI-Driven Systems Specialist
 
-I am a passionate software engineer focused on building robust, high-performance applications across mobile, desktop, and web platforms. My current focus is on integrating Local AI and high-performance backend systems into healthcare and supply chain infrastructure.
-
----
-
-### 🔨 Current Focus
-
-#### **Anaesthesia Information Management System (AIMS)**
-*Part of the Military Hospital Management System (MHMS) with integrated Clinical Decision Support (CDSS).*
-- **Backend & AI:** 
-  - ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) (Backend & Static HTML Serving) + ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-  - ![Ollama](https://img.shields.io/badge/Ollama-Local_AI-blue?style=flat) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white) (CDSS & AI Training)
-- **Frontend:** 
-  - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) (Desktop)
-
-#### **Base Medical Store Depot (BMSD) WMS**
-*Inventory and supply chain management for large-scale medical logistics.*
-- **Backend:** ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) + ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-- **Frontend:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) (Desktop)
-
-#### **Cancer Registry System**
-*Digital oncology registry for patient history and long-term data tracking.*
-- **Frontend:** ![Electron](https://img.shields.io/badge/Electron-%23478BA2.svg?style=flat&logo=electron&logoColor=white) + ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) (Vanilla)
-- **Backend:** ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) (Vanilla API) + ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-#### **National Service Medical Board (NSMB) App**
-*Centralized management system for medical board data and hospital grading.*
-- **Stack:** ![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=white) + ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+I build robust, high-performance applications across mobile, desktop, and web platforms. My expertise lies in integrating Local AI and scalable backend systems into healthcare and supply chain infrastructure.
 
 ---
 
-### 🚀 Core Expertise
+## 🔨 Current Projects
 
-#### **Backend & Systems**
-- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) **Go** | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white) **Rust** | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) **PostgreSQL** | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) **MySQL** | ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) **SQLite**
+### 🏥 Anaesthesia Information Management System (AIMS)
+*Military Hospital Management System with integrated Clinical Decision Support (CDSS)*
+- **Backend & AI:** Go | PostgreSQL | Ollama (Local AI) | Python (CDSS & AI Training) | Rust
+- **Frontend:** Flutter Desktop
 
-#### **Desktop & Frontend**
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) **Flutter Desktop** | ![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=white) **Tauri** | ![Electron](https://img.shields.io/badge/Electron-%23478BA2.svg?style=flat&logo=electron&logoColor=white) **Electron**
-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) **React + TS** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) **Vanilla JS**
+### 📦 Base Medical Store Depot (BMSD) WMS
+*Large-scale medical logistics & supply chain management*
+- **Backend:** Go | SQLite
+- **Frontend:** Flutter Desktop
+
+### 📋 Cancer Registry System
+*Digital oncology registry for patient history & long-term data tracking*
+- **Frontend:** Electron | Vanilla JavaScript
+- **Backend:** PHP (Vanilla API) | SQLite
+
+### 🩺 National Service Medical Board (NSMB) App
+*Centralized medical board data & hospital grading management*
+- **Stack:** Tauri | Rust | MySQL
 
 ---
 
-### 📊 GitHub Statistics
+## 💡 Core Tech Stack
 
-![Myo Thiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmyothiha&show_icons=true&theme=vibrant&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drmyothiha&layout=compact&theme=vibrant&hide_border=true)
+### Backend & Systems
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Desktop & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-%23478BA2.svg?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📬 Connect with Me
+## 📊 GitHub Stats
 
-- 💼 **LinkedIn**: [linkedin.com/in/drmyothiha](https://www.linkedin.com/in/drmyothiha)
-- 📧 **Email**: [dr.myothiha@gmail.com](mailto:dr.myothiha@gmail.com)
-- ✈️ **Telegram**: [t.me/dr.myothiha](https://t.me/dr.myothiha)
-- 💬 **Messenger**: [m.me/dr.myothiha](https://m.me/dr.myothiha)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drmyothiha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drmyothiha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/drmyothiha"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dr.myothiha@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/dr.myothiha"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://m.me/dr.myothiha"><img src="https://img.shields.io/badge/Messenger-%2300B2FF.svg?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger" /></a>
+</p>
 
 ---
 
